@@ -16,7 +16,7 @@ ORM:
 Criptografia:
  - Bcryptjs
 
-Authenticação:
+Autenticação: 
  - Jsonwebtoken
 
 Mocks:
